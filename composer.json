@@ -1,5 +1,6 @@
 {
     "name": "confrariaweb/laravel-templade",
+    "version": "dev-master",
     "description": "Laravel template package",
     "keywords": [
         "template",
